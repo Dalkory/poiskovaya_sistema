@@ -1,0 +1,3 @@
+C:/Users/79120/Documents/GitHub/poiskovaya_sistema/cmake-build-debug/CMakeFiles/poiskovaya_sistema.dir
+C:/Users/79120/Documents/GitHub/poiskovaya_sistema/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/79120/Documents/GitHub/poiskovaya_sistema/cmake-build-debug/CMakeFiles/rebuild_cache.dir
